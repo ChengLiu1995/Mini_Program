@@ -1,1 +1,3 @@
-this project will collect some mini programs from interview or other resources writen by me
+# 一些小算法
+用c语言编程实现fft(快速傅里叶变换）
+用python实现A*算法
